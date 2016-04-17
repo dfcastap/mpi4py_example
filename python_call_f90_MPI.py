@@ -1,3 +1,10 @@
+"""
+Created on Apr 15 2016
+
+@author: Diego Castaneda
+email: castaned@ap.smu.ca
+
+"""
 import numpy as np
 # Import the Fortran subroutine:
 import read_and_integrate as it
